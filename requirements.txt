@@ -1,0 +1,9 @@
+Flask
+flask-cors
+python-dotenv
+openai
+langchain
+langchain-openai
+requests
+pymongo
+dnspython
