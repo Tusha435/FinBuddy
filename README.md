@@ -1,7 +1,6 @@
 # FinBuddy 🚀
 ## AI-Powered Financial Literacy Platform for Young Indians
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![React](https://img.shields.io/badge/React-18+-61DAFB.svg)](https://reactjs.org/)
 [![Flask](https://img.shields.io/badge/Flask-2.0+-000000.svg)](https://flask.palletsprojects.com/)
@@ -115,8 +114,8 @@ Learning Progress Collection:
 
 1. **Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/finbuddy.git
-cd finbuddy
+git clone https://github.com/Tusha435/FinBuddy.git
+cd FinBuddy
 ```
 
 2. **Backend Setup**
@@ -492,10 +491,6 @@ git push origin feature/your-feature-name
 3. **Testing**: Add tests for new functionality
 4. **Indian Context**: Ensure features are relevant to Indian users
 5. **Security**: No hardcoded secrets or sensitive data
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
